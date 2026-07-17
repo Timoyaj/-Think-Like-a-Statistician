@@ -1,3 +1,5 @@
+# Think Like a Statistician
+
 Think Like a Statistician is a curated collection of articles, notebooks, and analyses that translate advanced statistical concepts into practical insights. The repository emphasizes clear intuition, reproducible workflows, and real-world examples to help readers build rigorous statistical reasoning and make better data-driven decisions.
 
 Key focus areas include:
