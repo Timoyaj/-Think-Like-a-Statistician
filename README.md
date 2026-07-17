@@ -1,3 +1,11 @@
-This repository documents my journey of explaining complex statistical concepts through clear intuition, practical examples, reproducible code, and analyses of real-world datasets. Every article and notebook is designed to help readers develop statistical thinking, enabling them to ask better questions, interpret evidence correctly, and make sound, data-driven decisions.
+Think Like a Statistician is a curated collection of articles, notebooks, and analyses that translate advanced statistical concepts into practical insights. The repository emphasizes clear intuition, reproducible workflows, and real-world examples to help readers build rigorous statistical reasoning and make better data-driven decisions.
 
-Topics range from fundamental statistical concepts and common misconceptions to modern data science, machine learning, causal inference, geospatial analytics, and applied research using publicly available datasets.
+Key focus areas include:
+
+- Core statistical principles and common misconceptions
+- Modern data science and machine learning foundations
+- Causal inference and rigorous evidence assessment
+- Geospatial analytics and applied spatial methods
+- Reproducible analysis using publicly available datasets
+
+Whether you are a student, researcher, or practitioner, this repository is intended to support thoughtful exploration of statistics and strengthen analytical judgment across diverse domains.
