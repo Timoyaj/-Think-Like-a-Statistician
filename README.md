@@ -1,2 +1,3 @@
-# -Think-Like-a-Statistician
-**Think Like a Statistician** is an educational repository making statistics, data science, and analytical thinking accessible. Through intuitive explanations, real-world examples, and reproducible code, it doesn’t just teach methods—it builds the mindset needed to critically evaluate evidence, make informed decisions, and solve problems using data
+This repository documents my journey of explaining complex statistical concepts through clear intuition, practical examples, reproducible code, and analyses of real-world datasets. Every article and notebook is designed to help readers develop statistical thinking, enabling them to ask better questions, interpret evidence correctly, and make sound, data-driven decisions.
+
+Topics range from fundamental statistical concepts and common misconceptions to modern data science, machine learning, causal inference, geospatial analytics, and applied research using publicly available datasets.
